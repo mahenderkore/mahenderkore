@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahender Kore</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/mahenderkore/mahenderkore/main/1687418510510.jpeg"> </div>
 
-
 <h3 align="center">Data Analyst</h3>
+
 <img align="right" alt="Coding" width="400" src="https://blog.thecenterforsalesstrategy.com/hs-fs/hubfs/analytics.gif?width=400&name=analytics.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahenderkore&label=Profile%20views&color=0e75b6&style=flat" alt="mahenderkore" /> </p>
@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/mahender-kore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/mahender-kore" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/mahenderkore4219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/mahenderkore4219" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahender-kore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahender-kore" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mahenderkore4219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahenderkore4219" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mahenderkore4219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahenderkore4219" height="30" width="40" /></a>
 </p>
 
