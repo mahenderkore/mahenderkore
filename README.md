@@ -3,7 +3,7 @@
 <h3 align="center">Data Engineer | Azure • Databricks • PySpark • Delta Lake</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mahenderkore/mahenderkore/main/Banner.png" width="220"/>
+  <img src="https://raw.githubusercontent.com/mahenderkore/mahenderkore/main/Banner.png" width="600"/>
 </div>
 
 ---
